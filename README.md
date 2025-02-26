@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sharanya Neogi</h1>
 <h3 align="center">An aspiring full stack developer | BTech. Undergrad from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/102061/pexels-photo-102061.jpeg?auto=compress&cs=tinysrgb&w=600">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=CodeBenderrr&label=Profile%20views&color=0e75b6&style=flat" alt="CodeBenderrr" />
   <img src="https://img.shields.io/github/stars/CodeBenderrr?style=flat&label=Stars" alt="Stars Count">
   <img src="https://img.shields.io/github/followers/CodeBenderrr?style=flat&label=Followers" alt="Followers Count">
  
-
+## About Me
+<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/102061/pexels-photo-102061.jpeg?auto=compress&cs=tinysrgb&w=600">
 - 🔭 I’m currently working on [Horizon Seven](https://quantumcoderrr.github.io/Horizon-Seven/)
 
 - 🌱 I’m currently learning **Full Stack Development with PERN**
@@ -23,7 +23,11 @@
 <a href="https://linkedin.com/in/sharanya neogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharanya neogi" height="30" width="40" /></a>
 </p>
 
-## 🚀 Languages and Tools  
+---
+
+<h3 align="center">Languages and Tools:</h3>
+
+<table align="center" style="width: 100%; text-align: center;">
 
 <table>
   <tr>
