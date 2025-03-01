@@ -8,7 +8,7 @@
  
 ## About Me
 <img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/102061/pexels-photo-102061.jpeg?auto=compress&cs=tinysrgb&w=600">
-- 🔭 I’m currently working on [Horizon Seven](https://quantumcoderrr.github.io/Horizon-Seven/)
+- 🔭 I’m currently working on Web Development and Machine Learning Projects.
 
 - 🌱 I’m currently learning **Full Stack Development with PERN**
 
